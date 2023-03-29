@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\8817149683\\Desktop\\Back end 1\\proj2\\proj2.csproj": {}
+    "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Back end\\Back end 1\\exercicio1\\proj2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\8817149683\\Desktop\\Back end 1\\proj2\\proj2.csproj": {
+    "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Back end\\Back end 1\\exercicio1\\proj2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\8817149683\\Desktop\\Back end 1\\proj2\\proj2.csproj",
+        "projectUniqueName": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Back end\\Back end 1\\exercicio1\\proj2.csproj",
         "projectName": "proj2",
-        "projectPath": "C:\\Users\\8817149683\\Desktop\\Back end 1\\proj2\\proj2.csproj",
+        "projectPath": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Back end\\Back end 1\\exercicio1\\proj2.csproj",
         "packagesPath": "C:\\Users\\8817149683\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\8817149683\\Desktop\\Back end 1\\proj2\\obj\\",
+        "outputPath": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Back end\\Back end 1\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\8817149683\\AppData\\Roaming\\NuGet\\NuGet.Config",

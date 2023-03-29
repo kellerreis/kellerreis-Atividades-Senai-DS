@@ -17,7 +17,7 @@ int dia = int.Parse(Console.ReadLine());
 DateTime data = DateTime.Now;
 
 int Meses = ((data.Year - ano)*12);
-Console.WriteLine(Meses);
+Console.WriteLine($"sua idade em meses é igual a: {Meses} meses");
 
 
 
