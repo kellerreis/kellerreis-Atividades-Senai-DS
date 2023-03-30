@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\bin\Debug\net7.0\Exercicio 5 maça.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\bin\Debug\net7.0\Exercicio 5 maça.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\bin\Debug\net7.0\Exercicio 5 maça.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\bin\Debug\net7.0\Exercicio 5 maça.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\bin\Debug\net7.0\Exercicio 5 maça.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\refint\Exercicio 5 maça.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\Exercicio 5 maça.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 5 maça\obj\Debug\net7.0\ref\Exercicio 5 maça.dll
