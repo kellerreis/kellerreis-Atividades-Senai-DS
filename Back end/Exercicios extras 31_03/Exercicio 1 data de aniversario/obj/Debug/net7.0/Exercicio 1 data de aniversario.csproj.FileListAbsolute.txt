@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\bin\Debug\net7.0\Exercicio 1 data de aniversario.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\bin\Debug\net7.0\Exercicio 1 data de aniversario.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\bin\Debug\net7.0\Exercicio 1 data de aniversario.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\bin\Debug\net7.0\Exercicio 1 data de aniversario.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\bin\Debug\net7.0\Exercicio 1 data de aniversario.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\refint\Exercicio 1 data de aniversario.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\Exercicio 1 data de aniversario.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\obj\Debug\net7.0\ref\Exercicio 1 data de aniversario.dll

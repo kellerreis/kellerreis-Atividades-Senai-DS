@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\bin\Debug\net7.0\Exercicio 2 maior numero.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\bin\Debug\net7.0\Exercicio 2 maior numero.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\bin\Debug\net7.0\Exercicio 2 maior numero.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\bin\Debug\net7.0\Exercicio 2 maior numero.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\bin\Debug\net7.0\Exercicio 2 maior numero.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\refint\Exercicio 2 maior numero.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\Exercicio 2 maior numero.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 2 maior numero\obj\Debug\net7.0\ref\Exercicio 2 maior numero.dll

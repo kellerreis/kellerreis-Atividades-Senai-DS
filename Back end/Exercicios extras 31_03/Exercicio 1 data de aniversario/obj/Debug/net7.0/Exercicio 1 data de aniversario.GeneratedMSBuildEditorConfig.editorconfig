@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exercicio_1_data_de_aniversario
+build_property.ProjectDir = C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercicio 1 data de aniversario\
