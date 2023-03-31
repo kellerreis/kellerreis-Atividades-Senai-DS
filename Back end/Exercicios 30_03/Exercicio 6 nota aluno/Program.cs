@@ -5,3 +5,21 @@
 //     porém caso a frequência respeite o mínimo exigido, começaríamos a avaliar a média para saber se está aprovado, em recuperação ou
 //      reprovado.
 
+Console.WriteLine($"informe a nota final do aluno (de 0 a 10)");
+float nota = float.Parse(Console.ReadLine());
+
+Console.WriteLine($"informe a frequencia do aluno (em %)");
+float frequencia = float.Parse(Console.ReadLine());
+
+if (frequencia<75 || nota<3){
+    Console.WriteLine($"Aluno reprovado");
+    }
+
+    else if (nota>=7)
+{
+    Console.WriteLine($"Aluno aprovado");
+}
+
+else {
+    Console.WriteLine($"Aluno em recuperação");
+  }

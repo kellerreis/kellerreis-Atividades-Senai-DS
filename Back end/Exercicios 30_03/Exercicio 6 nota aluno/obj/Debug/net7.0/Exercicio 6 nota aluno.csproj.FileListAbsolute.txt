@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\bin\Debug\net7.0\Exercicio 6 nota aluno.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\bin\Debug\net7.0\Exercicio 6 nota aluno.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\bin\Debug\net7.0\Exercicio 6 nota aluno.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\bin\Debug\net7.0\Exercicio 6 nota aluno.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\bin\Debug\net7.0\Exercicio 6 nota aluno.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\refint\Exercicio 6 nota aluno.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\Exercicio 6 nota aluno.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 30_03\Exercicio 6 nota aluno\obj\Debug\net7.0\ref\Exercicio 6 nota aluno.dll
