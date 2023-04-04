@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\bin\Debug\net7.0\Exemplo.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\bin\Debug\net7.0\Exemplo.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\bin\Debug\net7.0\Exemplo.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\bin\Debug\net7.0\Exemplo.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\bin\Debug\net7.0\Exemplo.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\refint\Exemplo.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\Exemplo.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo\obj\Debug\net7.0\ref\Exemplo.dll

@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\bin\Debug\net7.0\Exemplo 2 calculadora.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\bin\Debug\net7.0\Exemplo 2 calculadora.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\bin\Debug\net7.0\Exemplo 2 calculadora.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\bin\Debug\net7.0\Exemplo 2 calculadora.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\bin\Debug\net7.0\Exemplo 2 calculadora.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\refint\Exemplo 2 calculadora.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\Exemplo 2 calculadora.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Swtich case\Exemplo 2 calculadora\obj\Debug\net7.0\ref\Exemplo 2 calculadora.dll

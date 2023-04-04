@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\bin\Debug\net7.0\Exercico 4 crime.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\bin\Debug\net7.0\Exercico 4 crime.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\bin\Debug\net7.0\Exercico 4 crime.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\bin\Debug\net7.0\Exercico 4 crime.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\bin\Debug\net7.0\Exercico 4 crime.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\refint\Exercico 4 crime.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\Exercico 4 crime.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios extras 31_03\Exercico 4 crime\obj\Debug\net7.0\ref\Exercico 4 crime.dll

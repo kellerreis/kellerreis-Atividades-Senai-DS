@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\bin\Debug\net7.0\Exercicio burguer king.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\bin\Debug\net7.0\Exercicio burguer king.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\bin\Debug\net7.0\Exercicio burguer king.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\bin\Debug\net7.0\Exercicio burguer king.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\bin\Debug\net7.0\Exercicio burguer king.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\refint\Exercicio burguer king.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\Exercicio burguer king.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 3_4\Exercicio burguer king\obj\Debug\net7.0\ref\Exercicio burguer king.dll
