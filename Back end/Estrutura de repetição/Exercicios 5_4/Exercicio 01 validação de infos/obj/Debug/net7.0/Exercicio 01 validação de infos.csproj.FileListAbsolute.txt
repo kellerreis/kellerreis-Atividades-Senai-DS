@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\bin\Debug\net7.0\Exercicio 01 validação de infos.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\bin\Debug\net7.0\Exercicio 01 validação de infos.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\bin\Debug\net7.0\Exercicio 01 validação de infos.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\bin\Debug\net7.0\Exercicio 01 validação de infos.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\bin\Debug\net7.0\Exercicio 01 validação de infos.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\refint\Exercicio 01 validação de infos.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\Exercicio 01 validação de infos.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Estrutura de repetição\Exercicios 5_4\Exercicio 01 validação de infos\obj\Debug\net7.0\ref\Exercicio 01 validação de infos.dll
