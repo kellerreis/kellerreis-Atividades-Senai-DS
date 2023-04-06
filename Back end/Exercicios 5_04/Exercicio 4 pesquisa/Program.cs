@@ -5,7 +5,12 @@
 // C.O número de mulheres que responderam SIM;
 // D.A porcentagem de homens que responderam NÃO entre todos os homens analisados.
 
+int x = 0;
+
 Console.WriteLine($"Vamos iniciar nossa pesquisa");
+do 
+{  
+
 
 Console.WriteLine(@$" Digite a letra correspondente ao seu sexo:
 
@@ -25,4 +30,7 @@ Console.WriteLine(@$" Digite a letra correspondente ao seu sexo:
 ");
     string gostou = Console.ReadLine();
 
-    
+    x++;
+}
+while (x<=10);
+
