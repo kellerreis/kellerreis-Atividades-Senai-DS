@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\bin\Debug\net7.0\Exercicio 1 Nota.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\bin\Debug\net7.0\Exercicio 1 Nota.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\bin\Debug\net7.0\Exercicio 1 Nota.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\bin\Debug\net7.0\Exercicio 1 Nota.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\bin\Debug\net7.0\Exercicio 1 Nota.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\refint\Exercicio 1 Nota.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\Exercicio 1 Nota.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 1 Nota\obj\Debug\net7.0\ref\Exercicio 1 Nota.dll

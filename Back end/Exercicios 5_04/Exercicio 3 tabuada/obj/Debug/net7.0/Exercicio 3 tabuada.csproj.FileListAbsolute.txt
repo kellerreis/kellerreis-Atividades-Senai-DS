@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\bin\Debug\net7.0\Exercicio 3 tabuada.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\bin\Debug\net7.0\Exercicio 3 tabuada.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\bin\Debug\net7.0\Exercicio 3 tabuada.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\bin\Debug\net7.0\Exercicio 3 tabuada.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\bin\Debug\net7.0\Exercicio 3 tabuada.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\refint\Exercicio 3 tabuada.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\Exercicio 3 tabuada.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicios 5_04\Exercicio 3 tabuada\obj\Debug\net7.0\ref\Exercicio 3 tabuada.dll
