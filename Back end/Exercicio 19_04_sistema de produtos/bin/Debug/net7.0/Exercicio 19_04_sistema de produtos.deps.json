@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exercicio 19_04_sistema de produtos/1.0.0": {
+        "runtime": {
+          "Exercicio 19_04_sistema de produtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio 19_04_sistema de produtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
