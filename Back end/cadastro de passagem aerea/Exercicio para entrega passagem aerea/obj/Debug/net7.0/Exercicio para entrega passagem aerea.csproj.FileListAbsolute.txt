@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\bin\Debug\net7.0\Exercicio para entrega passagem aerea.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\bin\Debug\net7.0\Exercicio para entrega passagem aerea.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\bin\Debug\net7.0\Exercicio para entrega passagem aerea.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\bin\Debug\net7.0\Exercicio para entrega passagem aerea.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\bin\Debug\net7.0\Exercicio para entrega passagem aerea.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\refint\Exercicio para entrega passagem aerea.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\Exercicio para entrega passagem aerea.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\cadastro de passagem aerea\Exercicio para entrega passagem aerea\obj\Debug\net7.0\ref\Exercicio para entrega passagem aerea.dll
