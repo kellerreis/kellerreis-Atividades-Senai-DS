@@ -1,0 +1,5 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
