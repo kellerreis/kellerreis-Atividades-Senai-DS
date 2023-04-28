@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\bin\Debug\net7.0\exemplo gerando cod barras.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\bin\Debug\net7.0\exemplo gerando cod barras.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\bin\Debug\net7.0\exemplo gerando cod barras.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\bin\Debug\net7.0\exemplo gerando cod barras.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\bin\Debug\net7.0\exemplo gerando cod barras.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\refint\exemplo gerando cod barras.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\exemplo gerando cod barras.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\exemplo gerando cod barras\obj\Debug\net7.0\ref\exemplo gerando cod barras.dll
