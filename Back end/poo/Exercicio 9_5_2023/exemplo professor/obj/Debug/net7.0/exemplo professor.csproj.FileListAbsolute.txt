@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\bin\Debug\net7.0\exemplo professor.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\bin\Debug\net7.0\exemplo professor.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\bin\Debug\net7.0\exemplo professor.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\bin\Debug\net7.0\exemplo professor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\bin\Debug\net7.0\exemplo professor.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\refint\exemplo professor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\exemplo professor.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio 9_5_2023\exemplo professor\obj\Debug\net7.0\ref\exemplo professor.dll

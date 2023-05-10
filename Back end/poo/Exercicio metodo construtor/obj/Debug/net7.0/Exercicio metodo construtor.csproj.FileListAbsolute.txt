@@ -1,0 +1,15 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.csproj.CoreCompileInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\bin\Debug\net7.0\Exercicio metodo construtor.exe
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\bin\Debug\net7.0\Exercicio metodo construtor.deps.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\bin\Debug\net7.0\Exercicio metodo construtor.runtimeconfig.json
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\bin\Debug\net7.0\Exercicio metodo construtor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\bin\Debug\net7.0\Exercicio metodo construtor.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\refint\Exercicio metodo construtor.dll
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.pdb
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\Exercicio metodo construtor.genruntimeconfig.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\poo\Exercicio metodo construtor\obj\Debug\net7.0\ref\Exercicio metodo construtor.dll
