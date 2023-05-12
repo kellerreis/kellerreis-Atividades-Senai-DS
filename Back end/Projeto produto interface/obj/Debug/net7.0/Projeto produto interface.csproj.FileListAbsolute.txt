@@ -1,0 +1,5 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Projeto produto interface\obj\Debug\net7.0\Projeto produto interface.csproj.CoreCompileInputs.cache
