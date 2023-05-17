@@ -1,0 +1,5 @@
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 16_05 cadastro de produtos\obj\Debug\net7.0\Exercicio 16_05 cadastro de produtos.csproj.AssemblyReference.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 16_05 cadastro de produtos\obj\Debug\net7.0\Exercicio 16_05 cadastro de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 16_05 cadastro de produtos\obj\Debug\net7.0\Exercicio 16_05 cadastro de produtos.AssemblyInfoInputs.cache
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 16_05 cadastro de produtos\obj\Debug\net7.0\Exercicio 16_05 cadastro de produtos.AssemblyInfo.cs
+C:\Users\8817149683\Desktop\kellerreis-Atividades-Senai-DS\Back end\Exercicio 16_05 cadastro de produtos\obj\Debug\net7.0\Exercicio 16_05 cadastro de produtos.csproj.CoreCompileInputs.cache
