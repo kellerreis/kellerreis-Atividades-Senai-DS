@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeto gamer com back e sql.props" />
+</Project>

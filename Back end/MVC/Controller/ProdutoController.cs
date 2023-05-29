@@ -9,6 +9,8 @@ namespace MVC.Controller
 {
     public class ProdutoController
     {
+
+        //instancia das classes produto e produtoView
         Produto produto = new Produto();
 
         ProdutoView produtoView = new ProdutoView();
@@ -22,7 +24,14 @@ namespace MVC.Controller
             List<Produto> produtos = produto.Ler();
 
             //chamada da view passando a lista 
-            produtoView.Listar(produto);
+            produtoView.Listar(produtos);
+        }
+
+        public void Cadastrar(){
+
+            Produto novoProduto = produtoView.Cadastrar();
+
+            produto.Inserir(novoProduto);
         }
             
         
