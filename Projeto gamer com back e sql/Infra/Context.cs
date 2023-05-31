@@ -23,7 +23,7 @@ namespace Projeto_gamer_com_back_e_sql.Infra
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = NOTE22-S15; initial catalog = gamerTarde; Integrated Security = true;TrustServerCertificate = True");
+                optionsBuilder.UseSqlServer("Data Source = NOTE22-S15; initial catalog = gamerTarde; User Id=sa; pwd=Senai@134; TrustServerCertificate = True");
             }
         }
 
