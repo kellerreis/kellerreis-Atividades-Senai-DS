@@ -84,12 +84,78 @@ namespace Projeto_gamer_com_back_e_sql.Controllers
         }
 
 
+        [Route("Excluir/{id}")]
+        public IActionResult Excluir(int id)
+        {
+            Equipe e = c.Equipe.First(e => e.IdEquipe == id);
 
+            c.Equipe.Remove(e);
+
+            c.SaveChanges();
+
+            return LocalRedirect("~/Equipe/Listar");
+        }
+
+        [Route("Editar/{id}")]
+        public IActionResult Editar(int id)
+        {
+            Equipe e = c.Equipe.First(e => e.IdEquipe == id);
+
+            ViewBag.Equipe = e;
+            
+            return View("Edit");
+        }
+
+        [Route("Atualizar")]
+        public IActionResult Atualizar(IFormCollection form, Equipe e)
+        {
+            Equipe novaEquipe = new Equipe();
+
+            novaEquipe.Nome = e.Nome;
+            //upload da imagem na equipe atualizado
+
+            if (form.Files.Count > 0)
+            {
+                var file = form.Files[0];
+
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+
+                }
+                var path = Path.Combine(folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create)){
+
+                    file.CopyTo(stream);
+                
+                }
+                novaEquipe.imagem = file.FileName;
+            }
+            else{
+                novaEquipe.imagem = "padrao.png";
+            }
+
+            Equipe equipe = c.Equipe.First(x => x.IdEquipe == e.IdEquipe);
+
+            equipe.Nome = novaEquipe.Nome;
+            equipe.imagem = novaEquipe.imagem;
+
+            c.Equipe.Update(equipe);
+
+            c.SaveChanges();
+
+            return LocalRedirect("~/Equipe/listar");
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View("Error!");
         }
+
     }
+
 }
