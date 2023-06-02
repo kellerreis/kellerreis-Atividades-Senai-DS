@@ -18645,6 +18645,11 @@
   "RootNamespace": "Projeto_gamer_com_back_e_sql",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\Views\\Jogador\\Index.cshtml",
+      "TargetPath": "Views\\Jogador\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

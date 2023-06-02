@@ -25,8 +25,16 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\Santos_logo.svg.png"
     },
     {
+      "Id": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\wwwroot\\img\\Equipes\\download.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\download.png"
+    },
+    {
       "Id": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\wwwroot\\img\\Equipes\\imc.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\imc.png"
+    },
+    {
+      "Id": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\wwwroot\\img\\Equipes\\padrao.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\padrao.png"
     },
     {
       "Id": "C:\\Users\\8817149683\\Desktop\\kellerreis-Atividades-Senai-DS\\Projeto gamer com back e sql\\wwwroot\\js\\site.js",

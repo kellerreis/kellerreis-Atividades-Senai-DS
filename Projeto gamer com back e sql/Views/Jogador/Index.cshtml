@@ -1,0 +1,18 @@
+@model Jogador
+
+<select name="" id="">
+
+    <option value="0">selecione a opcao</option>
+
+    @foreach (var item in ViewBag.Equipe)
+    {
+        <option value="">@item.Nome</option>
+    }
+
+</select>
+
+@{
+    ViewData["Title"] = "Jogador";
+}
+
+<h1>Tela de Jogadores</h1>
