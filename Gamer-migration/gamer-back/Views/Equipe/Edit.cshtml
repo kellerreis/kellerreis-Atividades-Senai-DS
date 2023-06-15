@@ -4,6 +4,12 @@
     ViewData["Title"] = "Edit";
 }
 
+<link rel="stylesheet" href="~/css/equipes.css">
+<main>
+
+    <section class="container-grid cadastro-equipes">
+
+
 <h2>Edição de Equipes</h2>
 
 @if (ViewBag.UserName == null)
@@ -13,7 +19,41 @@
 else
 {
 
-    <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
+      <form class="frm-cad-equipe" method='post' action='@Url.Action("Atualizar")' enctype="multipart/form-data">
+                <div class="cadequipe-titulo">
+                    <h1>Edicao de Equipes</h1>
+                    <hr>
+                </div>
+
+                <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
+                @* <input class="campo-entrada" type="number" id="idEquipe" placeholder="Digite o Id da sua equipe:"> *@
+                <input class="campo-entrada" name="Nome" required type="text" value="@ViewBag.Equipe.IdEquipe" placeholder="Digite o nome da sua equipe:">
+                <label class="foto" for="foto-file">
+                    Nenuma imagem selecionada...
+                    <input  type="file" name="Imagem" value="@ViewBag.Equipe.Imagem" id="foto-file">
+                </label>
+                
+                <button>Atualizar</button>
+                
+                
+                
+                <!-- <select class="equipeid" id="equipeid">
+                    <option value="">Selecione uma Equipe</option>
+                    <option value="x">Equipe X</option>
+                    <option value="y">Equipe Y</option>
+                </select> -->
+            </form>
+
+
+
+
+
+
+
+
+
+
+    @* <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
 
         <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
 
@@ -25,5 +65,9 @@ else
 
         <button type="submit">Atualizar</button>
 
-    </form>
+    </form> *@
 }
+
+</section>
+
+</main>
